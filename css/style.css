@@ -163,11 +163,12 @@ hr {
 	font-size: 50px;
 	font-weight: 600;
 	letter-spacing: 2px;
+	text-transform: uppercase;
 	margin-bottom: 20px;
 	color: #333;
 }
 .intro p {
-	font-size: 30px;
+	font-size: 24px;
 	margin-bottom: 40px;
 	margin-top: 20px;
 }
